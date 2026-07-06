@@ -4,3 +4,5 @@ function registrarUsuario(email, password) {
     console.log("Usuario registrado con éxito: " + email);
     return true;
 }
+
+// Modificación simulada para revisión
